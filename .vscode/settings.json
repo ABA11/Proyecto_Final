@@ -1,0 +1,13 @@
+{
+    "git.autofetch": true,
+    "git.postCommitCommand": "sync",
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.enableCommitSigning": true,
+    "scm.alwaysShowProviders": true,
+    "git.fetchOnPull": true,
+    "git.enableSmartCommit": true,
+    "git.rebaseWhenSync": true,
+    "git.scanRepositories": [
+        "C:\\Users\\Andrey B\\Documents\\GitHub"
+    ]
+}
